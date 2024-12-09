@@ -1,0 +1,23 @@
+def expand_and_balance(self_essence, others_list):
+    """
+    Simboliza a expansão da consciência equilibrada.
+    
+    :param self_essence: Sua energia pessoal (equilibrada).
+    :param others_list: Lista de outros para os quais deseja expandir equilíbrio.
+    """
+    print("Iniciando conexão com o eu...")
+    self_essence = "Harmonia e Equilíbrio"
+    print(f"Eu Interior: {self_essence}")
+    
+    for other in others_list:
+        print(f"Expandindo energia para {other}...")
+        print(f"Mensagem enviada para {other}: 'Harmonia, expansão e equilíbrio'")
+    
+    print("Retornando ao centro...")
+    print("Processo completo. Seu equilíbrio foi preservado.")
+    
+# Exemplo de uso
+self_essence = "Energia Inicial"
+others_list = ["Amigo 1", "Amigo 2", "Amigo 3"]
+
+expand_and_balance(self_essence, others_list)
